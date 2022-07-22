@@ -1,0 +1,40 @@
+<script>
+     let answer3 = prompt('Who is the best bunny?');
+
+if ( answer3 === "Viktorija") 
+{
+  alert("You are correct")
+    
+}
+  
+   else if (answer3 === "viktorija") 
+  {
+      alert("Fix your grammar, m8") 
+      
+  }
+  
+  else if (answer3 === "VIKTORIJA" ) 
+  {
+      alert("Stop... SHOUTING, Viktorija. Sweety loud boo")
+  }
+  
+  else if (answer3 === "Lewis") 
+  {
+      alert("Bonus points for this easter egg guy, who is the best, periodddd.")
+  }
+  
+  else if (answer3 === "Liam", "Andrew", "Edward") 
+  {
+      alert("Correct. Niiice")
+  }
+  
+  else if (answer3 === "LEWIS", "LIAM", "ANDREW", "DADREW", "EDWARD")  
+  {
+      alert("stop shouting. jesus. youre technically right though m8, hmph") 
+  }
+  
+  else 
+  { 
+      alert("Nope. And it isnt likely to be grammar this time, either.") ;
+}
+</script>
