@@ -1,34 +1,34 @@
 <script>
      let answer3 = prompt('Who is the best bunny?');
 
-if ( answer3 === "Viktorija") 
+if ( answer3 === "Buny") 
 {
   alert("You are correct")
     
 }
   
-   else if (answer3 === "viktorija") 
+   else if (answer3 === "buny") 
   {
       alert("Fix your grammar, m8") 
       
   }
   
-  else if (answer3 === "VIKTORIJA" ) 
+  else if (answer3 === "BUNY" ) 
   {
-      alert("Stop... SHOUTING, Viktorija. Sweety loud boo")
+      alert("Stop... SHOUTING, Buny. Sweety loud boo")
   }
   
-  else if (answer3 === "Lewis") 
+  else if (answer3 === "butt") 
   {
       alert("Bonus points for this easter egg guy, who is the best, periodddd.")
   }
   
-  else if (answer3 === "Liam", "Andrew", "Edward") 
+  else if (answer3 === "easter egg", "orange") 
   {
       alert("Correct. Niiice")
   }
   
-  else if (answer3 === "LEWIS", "LIAM", "ANDREW", "DADREW", "EDWARD")  
+  else if (answer3 === "EASTER EGG", "ORANGE")  
   {
       alert("stop shouting. jesus. youre technically right though m8, hmph") 
   }
